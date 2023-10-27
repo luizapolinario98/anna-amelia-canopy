@@ -13,7 +13,7 @@
       "https://anna-amelia-iiif.vercel.app/3/manifest.json",
       "https://anna-amelia-iiif.vercel.app/4/manifest.json"    
     ],
-    "metadata": ["Date", "Type", "Creator"]
+    "metadata": []
   },
   "dev": {
     "label": { "none": ["O Rio de Anna Amélia] },
@@ -29,6 +29,6 @@
       "https://anna-amelia-iiif.vercel.app/3/manifest.json",
       "https://anna-amelia-iiif.vercel.app/4/manifest.json" 
     ],
-    "metadata": ["Date", "Type", "Creator"]
+    "metadata": []
   }
 }
