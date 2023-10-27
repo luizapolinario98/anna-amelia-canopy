@@ -1,6 +1,6 @@
 {
   "prod": {
-    "label": { "none": ["O Rio de Anna Amélia] },
+    "label": { "none": ["O Rio de Anna Amélia"] },
     "summary": {
       "none": [
         "a IIIF Collection sourced site generator in Next.js for digital collections, humanities, and exhibitions"
@@ -16,7 +16,7 @@
     "metadata": []
   },
   "dev": {
-    "label": { "none": ["O Rio de Anna Amélia] },
+    "label": { "none": ["O Rio de Anna Amélia"] },
     "summary": {
       "none": [
         "a IIIF Collection sourced site generator in Next.js for digital collections, humanities, and exhibitions"
