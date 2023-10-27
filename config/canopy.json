@@ -1,34 +1,34 @@
 {
   "prod": {
-    "label": { "none": ["Coleção Sebastião Lacerda"] },
+    "label": { "none": ["O Rio de Anna Amélia] },
     "summary": {
       "none": [
         "a IIIF Collection sourced site generator in Next.js for digital collections, humanities, and exhibitions"
       ]
     },
-    "collection": "https://sebastiao-lacerda.vercel.app/",
+    "collection": "https://anna-amelia-iiif.vercel.app/",
     "featured": [
-      "https://sebastiao-lacerda.vercel.app/32484260/manifest.json",
-      "https://sebastiao-lacerda.vercel.app/33514315/manifest.json",
-      "https://sebastiao-lacerda.vercel.app/33514351/manifest.json",
-      "https://sebastiao-lacerda.vercel.app/33514391/manifest.json"    
+      "https://anna-amelia-iiif.vercel.app/1/manifest.json",
+      "https://anna-amelia-iiif.vercel.app/2/manifest.json",
+      "https://anna-amelia-iiif.vercel.app/3/manifest.json",
+      "https://anna-amelia-iiif.vercel.app/4/manifest.json"    
     ],
-    "metadata": ["Data", "Tipo", "Autoria"]
+    "metadata": ["Date", "Type", "Creator"]
   },
   "dev": {
-    "label": { "none": ["Coleção Sebastião Lacerda"] },
+    "label": { "none": ["O Rio de Anna Amélia] },
     "summary": {
       "none": [
         "a IIIF Collection sourced site generator in Next.js for digital collections, humanities, and exhibitions"
       ]
     },
-    "collection": "https://sebastiao-lacerda.vercel.app",
+    "collection": "https://anna-amelia-iiif.vercel.app",
     "featured": [
-      "https://sebastiao-lacerda.vercel.app/32484260/manifest.json",
-      "https://sebastiao-lacerda.vercel.app/33514315/manifest.json",
-      "https://sebastiao-lacerda.vercel.app/33514351/manifest.json",
-      "https://sebastiao-lacerda.vercel.app/33514391/manifest.json" 
+      "https://anna-amelia-iiif.vercel.app/1/manifest.json",
+      "https://anna-amelia-iiif.vercel.app/2/manifest.json",
+      "https://anna-amelia-iiif.vercel.app/3/manifest.json",
+      "https://anna-amelia-iiif.vercel.app/4/manifest.json" 
     ],
-    "metadata": ["Data", "Tipo", "Autoria"]
+    "metadata": ["Date", "Type", "Creator"]
   }
 }
